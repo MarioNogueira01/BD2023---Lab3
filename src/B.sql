@@ -1,0 +1,1 @@
+SELECT nome,datanasc FROM alunos WHERE curso = 'LEI' AND datanasc BETWEEN '2000-01-01' AND '2004-12-31';
